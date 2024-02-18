@@ -17,4 +17,4 @@ else
 fi
 
 # Run the Docker container
-docker run -p $PORT:9000 -it -v $(pwd):/app --rm --name llm_backend_container $IMAGE_NAME
+docker run -p $PORT:9000 -it --rm --name llm_backend_container $IMAGE_NAME
