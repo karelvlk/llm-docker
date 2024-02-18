@@ -1,0 +1,7 @@
+requests==2.31.0
+beautifulsoup4==4.9.3
+llama_cpp_python==0.2.39
+gguf_modeldb==0.0.3
+util_helper==0.0.5
+fastapi==0.109.2
+uvicorn==0.27.1
